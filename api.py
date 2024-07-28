@@ -10,6 +10,12 @@ import matplotlib.pyplot as plt
 # python3 -m venv .venv
 # source .venv/bin/activate
 
+
+# Create a .env file where you need to add your API key
+# Setting up the API key
+#api_key = '....'
+
+
 # Loading the env file
 load_dotenv()
 # load_dotenv(find_dotenv())
