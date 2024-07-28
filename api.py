@@ -6,6 +6,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+# Create virtual environment
+# python3 -m venv .venv
+# source .venv/bin/activate
+
 # Loading the env file
 load_dotenv()
 # load_dotenv(find_dotenv())
